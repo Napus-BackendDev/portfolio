@@ -74,38 +74,38 @@ export default function Home() {
         <div className="flex flex-row flex-wrap justify-center items-center gap-10 mt-8 bg-white/50 backdrop-blur-sm rounded-[16px] p-8 shadow-lg">
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300">
-              <img src="/html.svg" alt="html" className="w-[50px] h-[50px]" />
+              <img src="/P_Language/html.svg" alt="html" className="w-[50px] h-[50px]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300">HTML</h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300">
-            <img src="/css.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/P_Language/css.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> CSS </h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300">
-            <img src="/javascrpit.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/P_Language/javascrpit.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> JavaScript </h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300">
-            <img src="/python.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/P_Language/python.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Python </h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300">
-            <img src="/sql.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/P_Language/sql.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Sql </h2>
           </div>
 
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300">
-            <img src="/java.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/P_Language/java.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Java </h2>
           </div>
@@ -116,19 +116,19 @@ export default function Home() {
         <div className="flex flex-row flex-wrap justify-center items-center gap-10 mt-8 bg-white/50 backdrop-blur-sm rounded-[16px] p-8 shadow-lg">
           <div className="flex flex-col justify-center items-center group ">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300" >
-            <img src="/springboot.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/Framework/springboot.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Spring Boot </h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300" >
-            <img src="/react.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/Framework/react.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> React </h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300]" >
-            <img src="/Vector.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/Framework/Vector.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Expo </h2>
           </div>
@@ -139,13 +139,13 @@ export default function Home() {
         <div className="flex flex-row flex-wrap justify-center items-center gap-10 mt-8 bg-white/50 backdrop-blur-sm rounded-[16px] p-8 shadow-lg">
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300]" >
-            <img src="/figma.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/Design_Tool/figma.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Figma </h2>
           </div>
           <div className="flex flex-col justify-center items-center group">
             <div className="p-4 bg-white rounded-[16px] shadow-md group-hover:shadow-xl group-hover:scale-110 transition-all duration-300]" >
-            <img src="/frammer.svg" alt="python" className="w-[50] h-[50]" />
+            <img src="/Design_Tool/frammer.svg" alt="python" className="w-[50] h-[50]" />
             </div>
             <h2 className="text-[16px] text-black font-semibold mt-3 group-hover:text-[#0047AB] transition-colors duration-300"> Framer </h2>
           </div>
